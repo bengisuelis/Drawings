@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T13:21:40.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zsvbzAK-LxRQbObVX7j3" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T13:33:49.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gH8ZwKC6G6mATQVW_RO3" version="21.6.6" type="github" pages="2">
   <diagram name="Sayfa -1" id="nEpasdpnIF6QxxQhhLIC">
     <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,53 @@
         </mxCell>
         <mxCell id="IGS3kUgPGlYXlZIfs-v1-7" value="Application Function Return" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iqIDEnjGneMDjt59B4Ir" name="Page-2">
+    <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6p2yLibXhUYzqRCcQWvM-2" target="6p2yLibXhUYzqRCcQWvM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-2" value="Application Function Call" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6p2yLibXhUYzqRCcQWvM-4" target="6p2yLibXhUYzqRCcQWvM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-4" value="Tool 1 Pre-Call Functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6p2yLibXhUYzqRCcQWvM-11" target="6p2yLibXhUYzqRCcQWvM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6p2yLibXhUYzqRCcQWvM-6" target="6p2yLibXhUYzqRCcQWvM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-6" value="Library Function Call" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6p2yLibXhUYzqRCcQWvM-8" target="6p2yLibXhUYzqRCcQWvM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-8" value="Tool 1 Post-Call Functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-9" value="Application Function Return" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6p2yLibXhUYzqRCcQWvM-10" target="6p2yLibXhUYzqRCcQWvM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-10" value="Tool 2 Pre-Call Functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6p2yLibXhUYzqRCcQWvM-11" value="Tool 2 Post-Call Functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
